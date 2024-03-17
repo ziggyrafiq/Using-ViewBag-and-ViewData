@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.MyData = "Ziggy, Rafiq Blog Post";
+ 
+    ViewBag.Title = "Ziggy Rafiq Website";
+
+    ViewData["Title"] = "Ziggy Rafiq Blog";
+
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<input type="hidden" id="my-data" value="@ViewBag.MyData" />
+<input type="hidden" id="message" value="@ViewData["Message"]" />
+
+<script>
+    var myData = document.getElementById("my-data").value;
+    console.log(myData); // Output: "Ziggy, Rafiq Blog Post"
+ 
+    var message = '@ViewBag.Message';
+    alert(message);
+
+        var messageViewData = document.getElementById("message").value;
+    alert(messageViewData);
+</script>
+

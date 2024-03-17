@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.MyData = "Ziggy Rafiq Blog Post";
+}
+<script>
+    $.ajax({
+        url: '@Url.Action("GetData")',
+        type: 'GET',
+        data: { myData: '@ViewBag.MyData' },
+        success: function (data) {
+            console.log(data); // Output: "Ziggy Rafiq Blog Post"
+        }
+    });
+</script>

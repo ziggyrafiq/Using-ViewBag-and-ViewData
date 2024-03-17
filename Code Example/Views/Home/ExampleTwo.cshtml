@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["MyData"] = new { Name = "Lerzan", Age = 28 };
+}
+<script>
+    var myData = @Html.Raw(Json.Serialize(ViewData["MyData"]));
+    console.log(myData.Name); // Output: "Lerzan"
+    console.log(myData.Age); // Output: 28
+</script>

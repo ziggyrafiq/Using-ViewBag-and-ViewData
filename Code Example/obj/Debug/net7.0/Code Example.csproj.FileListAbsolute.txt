@@ -1,0 +1,31 @@
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\appsettings.Development.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\appsettings.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.staticwebassets.runtime.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.exe
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.deps.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.runtimeconfig.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.dll
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\bin\Debug\net7.0\Code Example.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.csproj.AssemblyReference.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.RazorAssemblyInfo.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.RazorAssemblyInfo.cs
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets\msbuild.Code Example.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets\msbuild.build.Code Example.props
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Code Example.props
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Code Example.props
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets.pack.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets.build.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\staticwebassets.development.json
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\scopedcss\bundle\Code Example.styles.css
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\scopedcss\projectbundle\Code Example.bundle.scp.css
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.dll
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\refint\Code Example.dll
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.pdb
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\Code Example.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\ASP.net Core\MVC\Using ViewBag and ViewData\Code Example\obj\Debug\net7.0\ref\Code Example.dll
